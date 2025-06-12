@@ -10,7 +10,7 @@ body {
 
 
 .navbar {
-    background-color: #65a7ce;
+    background-color: #e062a1;
     overflow: hidden;
     display: flex;
     justify-content: space-between;
@@ -48,7 +48,7 @@ body {
 
 
 header {
-    background-color: #511d7c;
+    background-color: #d5a3ff;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -67,11 +67,11 @@ header {
 
 
 h1, h2 {
-    color: #b186eb;
+    color: #33056e;
 }
 
 footer {
-    background-color: #f7a4ca;
+    background-color: #99275a;
     color: white;
     text-align: center;
     padding: 10px 0;
